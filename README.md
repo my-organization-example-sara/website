@@ -2,6 +2,3 @@
 
 This is a really awesome website
 
-Edit on example branch
-
-NEw editing on update-readme branch
