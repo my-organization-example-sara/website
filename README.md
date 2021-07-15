@@ -7,5 +7,5 @@ Update made on master on Github rebase
 
 ## Repository Purpose
 This file is jst a readme file
-
+on how to use GIT
 
